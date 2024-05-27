@@ -1,0 +1,41 @@
+<!DOCTYPE HTML>
+<html lang="pt br">
+	<head>
+		<meta charset ="UTF-8">
+		<title> CEEMTI BG </title>
+		<link rel="stylesheet" type:"text/css" heaf:"Aula 02 - CSS - Jumio.css">
+	</head>
+	<body>
+		<header>
+			<h1 id="cabecalho"> CEEMTI BG </h1>
+		</header>
+		<main>
+			<ol> 
+				<li> Aspirações Docententes </li> 
+				<li> Análises Clínicas </li> 
+				<li> Informática para Internet </li>
+				<li> Manutenção Suporte em Informática </li> 
+			</ol>
+			<ul> 
+				<li> 1° Ano Aspirações Docententes 01 - Ensino Médio </li> 
+				<li> 1° Ano Análises Clínicas 01 - Ensino Médio </li> 
+				<li> 1° Ano Informática para Internet 01 - Ensino Médio </li>
+				<li> 1° Ano Informática para Internet 02 - Ensino Médio </li>
+				<li> 1° Ano Manutenção Suporte em Informática 01 - Ensino Médio </li>
+				<li> 2° Ano Aspirações Docententes 01 - Ensino Médio </li> 
+				<li> 2° Ano Análises Clínicas 01 - Ensino Médio </li>
+				<li> 2° Ano Informática para Internet 01- Ensino Médio </li>
+				<li> 2° Ano Informática para Internet 02 - Ensino Médio </li>
+				<li> 2° Ano Manutenção Suporte em Informática 01 - Ensino Médio </li>
+				<li> 3° Ano Aspirações Docententes  01- Ensino Médio </li> 
+				<li> 3° Ano Análises Clínicas  01- Ensino Médio </li> 
+				<li> 3° Informática para Internet  01- Ensino Médio </li> 
+				<li> 3° Ano Manutenção Suporte em Informática  01- Ensino Médio </li> 
+			</ul>
+		</main>
+		<footer>
+			<p class="nome"> Jumio </p>
+			<p class="nome"> Gustavo </p>
+		</footer>
+	</body>
+</html>
